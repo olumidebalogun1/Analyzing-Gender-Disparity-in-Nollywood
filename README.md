@@ -1,0 +1,1 @@
+There are two files for the Project slides, one is in Power Point and the Other is in PDF. Also the Data Storytelling contains two files in Word and in PDF. Feel free to choose any one you desire. Thanks!

@@ -1,4 +1,4 @@
-This project delivers a comprehensive analysis of Gender Disparity in Nollywood using Netflix Nigeria's data from 2013 to 2023. It offers visualizations and key insights through:
+This project delivers a comprehensive analysis of Gender Disparity in Nollywood using Netflix Nigeria's data from 2013 to 2023.  It also offers visualizations and key insights from the analysis. Additionally, it:
 
 1.	Highlighted the growth of Nollywood over the years and its indispensable role in the Nigerian economy.
 2.	Examined the movies and TV show directors – evaluated the total count, the proportion of male to female directors, and identified the top five male and female directors from 2013 to 2023.
